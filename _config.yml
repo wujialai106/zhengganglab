@@ -22,6 +22,9 @@ include:
 
 sass:
   sass_dir: _sass
+  style: compressed
+  css_dir: css
+
 
 # Conversion
 markdown: kramdown
