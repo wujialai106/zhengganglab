@@ -3,6 +3,36 @@
     
 @import "bootstrap";
 
+
+
+header {
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000; /* 确保不会被其他内容盖住 */
+}
+
+// .navbar {
+//     padding-top: 5px;
+//     padding-bottom: 5px;
+//     // min-height: 50px; /* 适当控制导航栏高度 */
+//     // max-height: 60px;
+//     // overflow: hidden; /* 防止超出 */
+// }
+
+.navbar-brand {
+    color: #333 !important;  /* 让 Logo 变深色 */
+	width: 100%;
+    text-align: center;
+}
+
+
+.navbar-nav .nav-link {
+    color: #444 !important;  /* 让导航栏的文字变深 */
+}
+
 img { margin-bottom: 24px; 
      margin-top: 17px; 
     border-radius:2%;
@@ -10,7 +40,7 @@ img { margin-bottom: 24px;
 
 
 body {
-	padding-top: 70px;
+    padding-top: 70px; /* 让导航栏不覆盖页面内容 */
 }
 
 figcaption {
