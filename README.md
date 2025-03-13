@@ -1,4 +1,4 @@
-# Zhenggang Lab Website
+# Zhenggang Zhu Page Website
 
 This is the official website for Zhenggang Zhu's research page at UC San Diego, hosted on **GitHub Pages**.
 
