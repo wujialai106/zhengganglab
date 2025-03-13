@@ -11,6 +11,7 @@ permalink: /research/
 Our lab investigates the molecular and neural coding principles underlying motivated behaviors, bridging the gaps between molecular mechanisms, circuit dynamics, and behavior. We aim to decipher how the brain orchestrates competing and synergistic motivations—an essential question in neuroscience that remains unresolved despite decades of progress.  
 
 ### Decoding Aggression Circuits
+![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 200px; float: left; margin: 0px  10px"} 
 During my PhD at Zhejiang University with Dr. Shumin Duan, I employed interdisciplinary approaches—including in vivo electrophysiology, optogenetics, machine-learning-assisted behavioral analysis, and molecular profiling—to study aggression circuits. My work uncovered:  
 - A **substantia innominata–midbrain circuit** governing graded aggressive states in mice (**Neuron 2021**).  
 - A **male-biased hypothalamic-amygdala pathway** essential for aggression initiation (**Neuron 2024**).  
@@ -19,6 +20,7 @@ During my PhD at Zhejiang University with Dr. Shumin Duan, I employed interdisci
 These discoveries provided foundational insights into how genetic and circuit-level mechanisms regulate aggression, earning recognition as one of **Zhejiang University’s Top 10 Discoveries (2021)** and the **Provincial Outstanding Thesis Prize**.  
 
 ### Motivated Eating and Social Behaviors  
+![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 200px; float: right; margin: 0px 10px"}
 As a **Sanford Postdoctoral Fellow** in Dr. Scott Sternson’s lab at UC San Diego/HHMI, I expanded my research into **hedonic eating and social motivation**:  
 - I identified a **brainstem dopamine pathway (peri-locus coeruleus → VTADA)** that dynamically encodes food palatability, **regulating hedonic feeding** (**Science, in press**).  
 - This mechanism also explains the **efficacy of GLP-1R agonists**, a class of **anti-obesity drugs**.  
