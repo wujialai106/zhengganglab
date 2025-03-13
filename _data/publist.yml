@@ -4,9 +4,9 @@
     - Demonstrates that dopamine promotes hedonic eating despite satiety signals from GLP-1 receptors.
     - Provides mechanistic insight into how GLP-1R agonists suppress food cravings and promote weight loss.
     - Establishes a neural framework linking metabolic and reward-driven feeding behaviors.
-  authors: Zhenggang Zhu, et al.
+  authors: Zhenggang Zhu, Rong Gong, Vicente Rodriguez, Kathleen T. Quach, Xinyu Chen, Scott M. Sternson
   link:
-    url: "https://www.science.org"  # 具体 URL 需更新
+    url: "https://doi.org/10.1126/science.adt0773"  # 具体 URL 需校对
     display: "Science (In Press)"
   highlight: 1
 
@@ -17,7 +17,7 @@
     - Reveals that HCN1-mediated excitability enhances aggressive behaviors specifically in males.
     - Identifies sex-dependent neuromodulation of aggression circuits via ion channel activity.
     - Suggests a molecular target for regulating pathological aggression.
-  authors: Kai Li*, Zhenggang Zhu*, et al. (*co-first authors)
+  authors: Kaiyuan Li*, Zhenggang Zhu*, et al. (*co-first authors)
   link:
     url: "https://doi.org/10.1101/2024.12.07.627305"
     display: "bioRxiv (2024)"
@@ -31,9 +31,33 @@
     - Shows that inactivation of this circuit selectively reduces male aggression without affecting female aggression.
   authors: Zhenggang Zhu, Lu Miao, Kaiyuan Li, Qingqing Ma, Yan-qin Yu, Shumin Duan
   link:
-    url: https://www.cell.com/neuron/abstract/S0896-6273(24)00457-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0896627324004574%3Fshowall%3Dtrue
+    url: https://www.cell.com/neuron/abstract/S0896-6273(24)00457-4
     display: Neuron 116, 875-889.E6 (2024)
   highlight: 1
+
+- title: "Neuroscience: Neurons that use a stress hormone increase eating"
+  image: ""
+  description: |
+    - Explores how stress-related neurons influence food intake.
+    - Identifies a neuronal mechanism for stress-induced overeating.
+    - Suggests potential targets for appetite control and obesity treatment.
+  authors: Z Zhu, SM Sternson
+  link:
+    url: https://www.cell.com/current-biology/fulltext/S0960-9822(23)01529-4
+    display: "Current Biology (2023)"
+  highlight: 0
+
+- title: "A short period of early life oxytocin treatment rescues social behavior dysfunction via suppression of hippocampal hyperactivity in male mice"
+  image: ""
+  description: |
+    - Investigates oxytocin’s role in early-life social behavior development.
+    - Identifies hippocampal hyperactivity as a factor in social dysfunction.
+    - Highlights potential therapeutic interventions for neurodevelopmental disorders.
+  authors: L Pan, L Zheng, X Wu, Z Zhu, S Wang, Y Lu, Y He, Q Yang, X Ma, X Wang, et al.
+  link:
+    url: https://www.nature.com/articles/s41380-022-01692-7
+    display: "Molecular Psychiatry (2022)"
+  highlight: 0
 
 - title: "A substantia innominata-midbrain circuit controls a general aggressive response"
   image: Pub_Neuron1.jpg
@@ -43,6 +67,72 @@
     url: https://www.cell.com/neuron/fulltext/S0896-6273(21)00150-1
     display: Neuron 109, 1540-1553.E9 (2021)
   highlight: 1
+
+- title: "Parabrachial nucleus circuit governs neuropathic pain-like behavior"
+  image: ""
+  description: |
+    - Investigates the role of the parabrachial nucleus in neuropathic pain.
+    - Identifies neural circuits responsible for pain-like behavior.
+    - Provides insights into potential therapeutic targets for chronic pain.
+  authors: L Sun, R Liu, F Guo, M Wen, X Ma, K Li, H Sun, C Xu, Y Li, M Wu, Z Zhu, et al.
+  link:
+    url: https://www.nature.com/articles/s41467-020-19767-w
+    display: "Nature Communications (2020)"
+  highlight: 0
+
+- title: "Activation of astrocytes in hippocampus decreases fear memory through adenosine A1 receptors"
+  image: ""
+  description: |
+    - Shows astrocyte-mediated modulation of fear memory.
+    - Highlights adenosine A1 receptor involvement in fear reduction.
+    - Suggests astrocytes as potential targets for fear-related disorders.
+  authors: Y Li, L Li, J Wu, Z Zhu, X Feng, L Qin, Y Zhu, L Sun, Y Liu, Z Qiu, S Duan, et al.
+  link:
+    url: https://elifesciences.org/articles/57155
+    display: "eLife (2020)"
+  highlight: 0
+
+- title: "A Circuit Mechanism for Sexually Dimorphic Control of Aggression"
+  image: ""
+  description: |
+    - Investigates sex differences in aggression control mechanisms.
+    - Maps aggression-related pathways in male and female brains.
+    - Suggests neural circuits governing dimorphic social behaviors.
+  authors: Z Zhu, L Miao, K Li, Q Ma, L Pan, C Shen, Q Ge, XH Xu, L Zeng, Y Liu, et al.
+  link:
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4529646
+    display: "IBRO Reports (2019)"
+  highlight: 0
+
+- title: "Biocompatible aggregation-induced emission nanoparticles with red emission for in vivo three-photon brain vascular imaging"
+  image: ""
+  description: |
+    - Develops red-emitting nanoparticles for deep-brain imaging.
+    - Demonstrates high biocompatibility in live animal models.
+    - Advances imaging techniques for neuroscience research.
+  authors: H Zhang, N Alifu, T Jiang, Z Zhu, Y Wang, J Hua, J Qian
+  link:
+    url: https://pubs.rsc.org/en/content/articlelanding/2017/tb/c7tb00156h/unauth
+    display: "Journal of Materials Chemistry B (2017)"
+  highlight: 0
+
+- title: "Different responses to heat shock stress revealed heteromorphic adaptation strategy of Pyropia haitanensis"
+  image: ""
+  description: |
+    - Explores the adaptation of Pyropia haitanensis to heat stress.
+    - Identifies distinct cellular responses to temperature variations.
+    - Provides insights into stress resilience in marine plants.
+  authors: Q Luo, Z Zhu, Z Zhu, R Yang, F Qian, H Chen, X Yan
+  link:
+    url: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094354
+    display: "PLOS ONE (2014)"
+  highlight: 0
+
+
+
+
+
+
 
 
 

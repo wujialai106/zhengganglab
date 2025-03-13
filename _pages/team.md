@@ -1,5 +1,5 @@
 ---
-title: "Zhenggang Lab - Team"
+title: "Zhenggang Lab - People"
 layout: gridlay
 excerpt: "Zhenggang Lab: Team members"
 sitemap: false
@@ -59,6 +59,29 @@ permalink: /team/
   <li> {{ member.education5 }} </li>
   {% endif %}
 
+  {% if member.number_educ == 6 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+
+  {% endif %}
+    {% if member.number_educ == 7 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+
+  {% endif %}
+    {% if member.number_educ == 8 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
   </ul>
 </div>
 
@@ -141,7 +164,7 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-6 clearfix"> 
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
