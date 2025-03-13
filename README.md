@@ -1,6 +1,6 @@
 # Zhenggang Lab Website
 
-This is the official website for Zhenggang Zhu's research lab at UC San Diego, hosted on **GitHub Pages**.
+This is the official website for Zhenggang Zhu's research page at UC San Diego, hosted on **GitHub Pages**.
 
 ## 🌍 Live Website
 🔗 **[Visit the website](https://wujialai106.github.io/zhengganglab/)**
