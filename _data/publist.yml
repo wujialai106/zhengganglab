@@ -6,8 +6,8 @@
     - Establishes a neural framework linking metabolic and reward-driven feeding behaviors.
   authors: Zhenggang Zhu, Rong Gong, Vicente Rodriguez, Kathleen T. Quach, Xinyu Chen, Scott M. Sternson
   link:
-    url: "https://doi.org/10.1126/science.adt0773"  # 具体 URL 需校对
-    display: "Science (In Press)"
+    url: "https://doi.org/10.1126/science.adt0773"  #
+    display: "Science (2025)"
   highlight: 1
 
 - title: "HCN1 channels in GABAergic amygdalar neurons underpin male-biased aggressive behaviors"
@@ -32,7 +32,7 @@
   authors: Zhenggang Zhu, Lu Miao, Kaiyuan Li, Qingqing Ma, Yan-qin Yu, Shumin Duan
   link:
     url: https://www.cell.com/neuron/abstract/S0896-6273(24)00457-4
-    display: Neuron 116, 875-889.E6 (2024)
+    display: Neuron (2024)
   highlight: 1
 
 - title: "Neuroscience: Neurons that use a stress hormone increase eating"
@@ -65,7 +65,7 @@
   authors: Zhenggang Zhu, Qingqing Ma, Lu Miao, Li Sun, Yan-qin Yu, Shumin Duan 
   link:
     url: https://www.cell.com/neuron/fulltext/S0896-6273(21)00150-1
-    display: Neuron 109, 1540-1553.E9 (2021)
+    display: Neuron(2021)
   highlight: 1
 
 - title: "Parabrachial nucleus circuit governs neuropathic pain-like behavior"

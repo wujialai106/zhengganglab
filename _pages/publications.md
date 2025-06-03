@@ -9,13 +9,7 @@ permalink: /publications/
 
 # Publications
 
-## Group highlights
-
-At the end of this page, you can find the <a href="#full-list-of-publications">full list of publications</a>. 
-All papers are also available on <a href="https://www.biorxiv.org/search/ZHENGGANG%252BZHU" target="_blank">biorxiv</a>.
-
-
-<!-- **At the end of this page, you can find the [full list of publications](#full-list-of-publications). All papers are also available on [biorxiv](https://www.biorxiv.org/search/ZHENGGANG%252BZHU).** -->
+## Highlights
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -60,6 +54,8 @@ All papers are also available on <a href="https://www.biorxiv.org/search/ZHENGGA
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a> -->
 ## Full List of publications
 
+Please find below the <a href="#full-list-of-publications">full list of publications</a>. 
+All papers are also available on <a href="https://scholar.google.com/citations?user=JIwfL4oAAAAJ&hl=en" target="_blank">Google Scholar </a>.
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />

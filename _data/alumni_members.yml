@@ -1,12 +1,3 @@
-- name: Charlotte
-  photo: rock.jpg
-  info: Undergraduate Intern (07/2022 - 06/2024, UCSD / Zhejiang University)
-  duration: Now a graduate student at The Scripps Research Institute
-  email: # (如果需要可以添加)
-  number_educ: 3
-  education1: Best thesis award recipient
-  education2: First-grade student at The University of Edinburgh
-  education3: Graduate student at The Scripps Research Institute
 
 - name: Vincente Rodriguez
   photo: rock.jpg
@@ -24,42 +15,35 @@
   number_educ: 1
   education1: Research Assistant at UCSD
 
-- name: Juan Vasquez-Perez
-  photo: rock.jpg
-  info: Graduate Student (09/2021 - Present, UCSD)
-  duration: Currently pursuing PhD at UCSD
-  email: # (如果需要可以添加)
-  number_educ: 1
-  education1: PhD Student at UCSD
+# - name: Juan Vasquez-Perez
+#   photo: rock.jpg
+#   info: Graduate Student (09/2021 - Present, UCSD)
+#   duration: Currently pursuing PhD at UCSD
+#   email: # (如果需要可以添加)
+#   number_educ: 1
+#   education1: PhD Student at UCSD
 
-- name: Mingxiao Wei
-  photo: rock.jpg
-  info: Graduate Student (09/2024 - Present, UCSD)
-  duration: Currently pursuing PhD at UCSD
-  email: # (如果需要可以添加)
-  number_educ: 1
-  education1: PhD Student at UCSD
+# - name: Mingxiao Wei
+#   photo: rock.jpg
+#   info: Graduate Student (09/2024 - Present, UCSD)
+#   duration: Currently pursuing PhD at UCSD
+#   email: # (如果需要可以添加)
+#   number_educ: 1
+#   education1: PhD Student at UCSD
 
-- name: Ryan Schimid
-  photo: rock.jpg
-  info: Graduate Student (01/2025 - Present, UCSD)
-  duration: Currently pursuing PhD at UCSD
-  email: # (如果需要可以添加)
-  number_educ: 1
-  education1: PhD Student at UCSD
+# - name: Ryan Schimid
+#   photo: rock.jpg
+#   info: Graduate Student (01/2025 - Present, UCSD)
+#   duration: Currently pursuing PhD at UCSD
+#   email: # (如果需要可以添加)
+#   number_educ: 1
+#   education1: PhD Student at UCSD
 
-- name: Xinyu Chen
-  photo: rock.jpg
-  info: Postdoctoral Researcher (06/2024 - Present, UCSD)
-  duration: Postdoctoral fellow at UCSD
-  email: # (如果需要可以添加)
-  number_educ: 1
-  education1: Postdoctoral Researcher at UCSD
+# - name: Xinyu Chen
+#   photo: rock.jpg
+#   info: Postdoctoral Researcher (06/2024 - Present, UCSD)
+#   duration: Postdoctoral fellow at UCSD
+#   email: # (如果需要可以添加)
+#   number_educ: 1
+#   education1: Postdoctoral Researcher at UCSD
 
-- name: Mohammadamin Cheraghi
-  photo: rock.jpg
-  info: Research Volunteer (05/2023 - 01/2024, UCSD)
-  duration: Applied machine learning to video analysis during research internship
-  email: # (如果需要可以添加)
-  number_educ: 1
-  education1: Research Volunteer at UCSD

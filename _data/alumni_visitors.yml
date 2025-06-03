@@ -3,11 +3,22 @@
 # - name: Vitaly Fedoseev, all of 2016
 
 # - name: Alexander Vanstone (Imperial), Spring 2016
-- name: Shiqi Charlotte Wang
-
-- name: Vincente Rodriguez
-
-- name: Matthew Lee
 
 - name: Mohammadamin Cheraghi
--
+  photo: rock.jpg
+  info: Research Volunteer (05/2023 - 01/2024, UCSD)
+  duration: Applied machine learning to video analysis during research internship
+  email: # (如果需要可以添加)
+  number_educ: 1
+  education1: Research Volunteer at UCSD
+
+- name: Charlotte Shiqi Wang
+  photo: rock.jpg
+  info: Undergraduate Intern (07/2022 - 06/2024, UCSD / Zhejiang University)
+  duration: Now a graduate student at The Scripps Research Institute
+  email: # (如果需要可以添加)
+  number_educ: 3
+  education1: Best thesis award recipient
+  education2: First-grade student at The University of Edinburgh
+  education3: Graduate student at The Scripps Research Institute
+

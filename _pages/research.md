@@ -8,35 +8,35 @@ permalink: /research/
 
 # Research  
 
-Our lab investigates the molecular and neural coding principles underlying motivated behaviors, bridging the gaps between molecular mechanisms, circuit dynamics, and behavior. We aim to decipher how the brain orchestrates competing and synergistic motivations—an essential question in neuroscience that remains unresolved despite decades of progress.  
+Our research investigates the molecular and neural coding principles underlying motivated behaviors, bridging the gaps between molecular mechanisms, circuit dynamics, and behavior. We aim to decipher how the brain orchestrates competing and synergistic motivations—an essential question in neuroscience that remains unresolved despite decades of progress.  
 
-### Decoding Aggression Circuits
+###  Physilogical and Social Motivation  
+![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 200px; float: right; margin: 0px 10px"}
+As a **Sanford Postdoctoral Fellow** in Dr. Scott Sternson’s lab at UC San Diego/HHMI, my research is centering around **food and social motivation**:  
+- I identified a **brainstem dopamine pathway (peri-locus coeruleus → VTADA)** that dynamically encodes food palatability, **sustaining hedonic feeding** (**Science**).This also explains the **efficacy of GLP-1R agonists**, a class of **anti-obesity drugs**.   
+- I developed a **novel behavioral paradigm** for **food-reinforced social behaviors**, uncovering dopamine as a key neuromodulator of driving social motivation.
+
+### Decoding Social Aggression
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 200px; float: left; margin: 0px  10px"} 
-During my PhD at Zhejiang University with Dr. Shumin Duan, I employed interdisciplinary approaches—including in vivo electrophysiology, optogenetics, machine-learning-assisted behavioral analysis, and molecular profiling—to study aggression circuits. My work uncovered:  
+During my PhD at Zhejiang University with Dr. Shumin Duan, I employed interdisciplinary approaches—including in vivo electrophysiology, optogenetics, machine-learning-assisted behavioral analysis, and neural tracing—to study aggression circuits. My work uncovered:  
 - A **substantia innominata–midbrain circuit** governing graded aggressive states in mice (**Neuron 2021**).  
-- A **male-biased hypothalamic-amygdala pathway** essential for aggression initiation (**Neuron 2024**).  
+- A **male-biased hypothalamic-amygdala pathway** essential for aggression execution (**Neuron 2024**).  
 - A **neuromodulatory ion channel** driving sex differences in aggressive behavior (**BioRxiv 2024**).  
 
-These discoveries provided foundational insights into how genetic and circuit-level mechanisms regulate aggression, earning recognition as one of **Zhejiang University’s Top 10 Discoveries (2021)** and the **Provincial Outstanding Thesis Prize**.  
+These discoveries provided foundational insights into molecular and circuit-mechanisms regulate aggression, earning recognition as one of **Zhejiang University’s Top 10 Discoveries (2021)** and the **Provincial Outstanding Thesis Prize**.  
 
-### Motivated Eating and Social Behaviors  
-![]({{ site.url }}{{ site.baseurl }}/images/respic/STMHead.png){: style="width: 200px; float: right; margin: 0px 10px"}
-As a **Sanford Postdoctoral Fellow** in Dr. Scott Sternson’s lab at UC San Diego/HHMI, I expanded my research into **hedonic eating and social motivation**:  
-- I identified a **brainstem dopamine pathway (peri-locus coeruleus → VTADA)** that dynamically encodes food palatability, **regulating hedonic feeding** (**Science, in press**).  
-- This mechanism also explains the **efficacy of GLP-1R agonists**, a class of **anti-obesity drugs**.  
-- I developed a **novel behavioral paradigm** for **food-reinforced social observation**, uncovering dopamine as a key neuromodulator of social motivation.  
 
-### Innovative Tools for Neural Circuit Dissection  
-To unravel the molecular underpinnings of motivation, I pioneered **EASEQ-FISH (Expansion-Assisted Sequential Fluorescence In Situ Hybridization)**, an advanced **3D spatial transcriptomics** platform that integrates with neuronal activity imaging (**CARMA**). This approach enables:  
+### Tools for Neural Circuit Dissection  
+To unravel the molecular underpinnings of motivation, I and collaborateors are advancing functional coupled molecular tools -**CARMA and other 3D spatial transcriptomics** platform for integrating with neuronal activity imaging with molecular profiles, including pioneer**EASEQ-FISH (Expansion-Assisted Sequential Fluorescence In Situ Hybridization)**, and 3D MERFISH. These approach enables:  
 - High-throughput **molecular profiling (~100 genes)** in functionally defined circuits.  
 - Identification of **molecularly and projection-defined cell types** linked to motivated states.  
 - A translational framework for studying motivation-related disorders, including **autism, depression, and obesity**.  
 
-### Future Directions  
-As an independent investigator, I will build on these discoveries to explore **universal principles of neuromodulation**, integrating **spatial transcriptomics, circuit-specific interventions, and computational ethology**. Our long-term goal is to **decode how the brain orchestrates competing motivational drives** and develop strategies for diagnosing and treating **motivation-related disorders**, from **neuropsychiatric diseases to metabolic dysfunctions**.  
+### More to come  
+Building on **spatial transcriptomics, circuit-specific interventions, and computational ethology**, our ongoing discoveries is **decoding how the brain orchestrates competing motivational drives**, lowering the branch for exploring **universal principles of neuromodulation**, and inspiring strategies for diagnosing and treating **motivation-related disorders**, from **neuropsychiatric diseases to metabolic dysfunctions**.  
 
 ---
-
+<!-- 
 ### Featured Research Image  
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
@@ -60,10 +60,10 @@ c.Zhu, Z., Gong, R, Rodriguez, V, Sternson, S (2024) “Hedonic eating is contro
 ### Advanced Perturbation Techniques to Study Motivated Behaviors 
 My research journey has seen the adaptation of cutting-edge tools in neuroscience, including cell-type-specific optogenetics, in vivo electrophysiology recordings, machine-learning-based behavioral and neuronal ensemble investigations, all focused on unraveling the complexities of various motivated behaviors such as social observation, feeding, aggression, sleep, and pain responses. This integration of advanced perturbation techniques with the exploration of diverse behaviors has led to a compelling convergence, shedding light on the intricate relationship between these methods and fundamental survival necessities. Furthermore, recognizing the need for real-time, unbiased molecular insights into neuronal activities in the field, I have ventured into the development and advancement of innovative approaches like EASEQ-FISH and CaRMA imaging. These pioneering efforts aim to address profound questions regarding the control of motivated behaviors in mice.
 a.Zhu, Z., Rodriguez, V, Sternson, S. EASEQ-FISH for high throughput molecular mapping in thick brain tissue sections, In preparation.
-b.Zhu, Z., Rodriguez, V, Sternson, S. Molecularly Defined VTA Neurons Governing Social and Food Motivation, In preparation.
+b.Zhu, Z., Rodriguez, V, Sternson, S. Molecularly Defined VTA Neurons Governing Social and Food Motivation, In preparation. -->
 
 ### Reference Pages  
-<a href="https://www.ran-lab.org/research" target="_blank">Ran Lab </a> | 
-<a href="https://www.kennedylab.org/" target="_blank">Kennedy Lab </a> | 
+<!-- <a href="https://www.ran-lab.org/research" target="_blank">Ran Lab </a> | 
+<a href="https://www.kennedylab.org/" target="_blank">Kennedy Lab </a> |  -->
 <a href="https://sternsonlab.com/people/" target="_blank">Sternson Lab </a> | 
-<a href="https://pendari.com/" target="_blank">Pendari </a> <br /> 
+<!-- <a href="https://pendari.com/" target="_blank">Pendari </a> <br />  -->
